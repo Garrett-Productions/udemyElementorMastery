@@ -36,3 +36,7 @@ Adding Blog
 For the Free version
 * There is an essential Addons portion of Elementor with a ton of cool things to add! 
 * We used thew image accordion! Its super cool because the image title and text appears onHover with a light opacity over the image. 
+
+
+CALL TO ACTION
+- eseential addon preset for elementor
