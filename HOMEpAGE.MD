@@ -40,3 +40,11 @@ For the Free version
 
 CALL TO ACTION
 - eseential addon preset for elementor
+
+
+Testimonials
+- similar to the image carasoul, we created a header, then a divider, all aligned center
+- added a container
+- WE ADDED A testimonial element, includes a photo, title and name.. image size: full
+- WE DUPLICATED TWICE AND CHANGED THE CONTENT
+* Finally we changed the direction
