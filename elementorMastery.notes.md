@@ -129,7 +129,8 @@ BUILDING A GLOBAL FOOTER
 * We added our global footer with duplicator, we went to appearance > heasder and footer plugin and created it it!
 - some attributes we stuck to are width: elementor full, we didnt exclude any page 
 
-~~~~~~~~~~~
+~~~~~~~~~~
+HOMEPAGE
 
 Banner
 
@@ -154,3 +155,6 @@ OUR UNIQUE TRAVEL DESIGN SECTION
 - the image box, came with an image title, and text, we used our global styling for our headers.
 - Originally these image boxes were stacked, but we simply went to 'advanced', and in there wthere is a direction attribute that we changed to 'row', instead of column.
 - adjusted a few more minor things and we are good
+
+
+ADDING AN IMAGE CAROUSEL
