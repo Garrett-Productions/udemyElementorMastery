@@ -144,4 +144,13 @@ Recap
 
 Body of Home Page
 
-- we input a section with 4 even components, dragged and dropped images, diplay size: full, we brought into the other side, a header(h1), text box w dummy text and aligned it center, and a button, changed the colors to match some basics, by using global styles, and to the the overall container of the section we applied some margin bottom to each text eleemnt for spacing
+- we input a section with 4 even components, dragged and dropped images, diplay size: full, we brought into the other side, a header(h1), text box w dummy text and aligned it center, and a button, changed the colors to match some basics, by using global styles, and to the the overall container of the section we applied some margin bottom to each text eleemnt for spacing..
+
+OUR UNIQUE TRAVEL DESIGN SECTION
+
+- We added a container, gave it a cream colored background color, #f8f8f8.
+- h1, divider, text
+- under we added an inner container, this is containing 3 IMAGE BOXES, that we found in the 'general' under elemntor.
+- the image box, came with an image title, and text, we used our global styling for our headers.
+- Originally these image boxes were stacked, but we simply went to 'advanced', and in there wthere is a direction attribute that we changed to 'row', instead of column.
+- adjusted a few more minor things and we are good
