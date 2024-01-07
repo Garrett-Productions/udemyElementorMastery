@@ -26,3 +26,13 @@ OUR UNIQUE TRAVEL DESIGN SECTION
 
 
 ADDING AN IMAGE CAROUSEL
+- added 6 photos, changed the width to full and the 'slides to show' section and 'slides to scroll'
+
+
+Adding Blog
+- he is using the paid version because there is a 'post grid'
+- but im waiting to do it on free version
+
+For the Free version
+* There is an essential Addons portion of Elementor with a ton of cool things to add! 
+* We used thew image accordion! Its super cool because the image title and text appears onHover with a light opacity over the image. 
