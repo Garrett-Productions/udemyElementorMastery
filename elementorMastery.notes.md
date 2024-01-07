@@ -138,3 +138,10 @@ Banner
 Recap
 - We've added our container image to and done a negative -270 margin top so it actually overlaps our home page nav bar header, that we created in appearance. 
 - I had to go back into our elementor header, the globals, and go into the nav bar settings via the navigator and I just turned the background off on the nav bar, making it translucent
+- The image is now blending in with the header
+- For the image, we set the opacity to .15 and change the width and sizing.
+~~~~~~~~~~
+
+Body of Home Page
+
+- we input a section with 4 even components, dragged and dropped images, diplay size: full, we brought into the other side, a header(h1), text box w dummy text and aligned it center, and a button, changed the colors to match some basics, by using global styles, and to the the overall container of the section we applied some margin bottom to each text eleemnt for spacing
