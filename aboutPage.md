@@ -1,0 +1,1 @@
+We created an about us page from a template, templately, which was a plugin from essential addons

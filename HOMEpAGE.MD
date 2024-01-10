@@ -48,3 +48,9 @@ Testimonials
 - WE ADDED A testimonial element, includes a photo, title and name.. image size: full
 - WE DUPLICATED TWICE AND CHANGED THE CONTENT
 * Finally we changed the direction
+- we added padding on top and bottom of container, of 50 px
+
+
+WE ADDED OUR LATEST POSTS PAGE
+- image accordion
+- MOST IMORTANTLY WE ADDED LINKS!
